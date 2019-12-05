@@ -1,0 +1,56 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<result plugin="junit@1.28">
+  <suites>
+    <suite>
+      <file>C:\Program Files (x86)\Jenkins\workspace\Bring_It_On\Java\target\surefire-reports\TEST-com.github.vitalliuss.helloci.AppTest.xml</file>
+      <name>com.github.vitalliuss.helloci.AppTest</name>
+      <duration>0.219</duration>
+      <time>0.219</time>
+      <enclosingBlocks/>
+      <enclosingBlockNames/>
+      <cases>
+        <case>
+          <duration>0.015</duration>
+          <className>com.github.vitalliuss.helloci.AppTest</className>
+          <testName>testShouldBeFailed</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>java.lang.AssertionError
+	at com.github.vitalliuss.helloci.AppTest.testShouldBeFailed(AppTest.java:21)
+</errorStackTrace>
+          <failedSince>1</failedSince>
+        </case>
+        <case>
+          <duration>0.0</duration>
+          <className>com.github.vitalliuss.helloci.AppTest</className>
+          <testName>testShouldBePassed</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>0.032</duration>
+          <className>com.github.vitalliuss.helloci.AppTest</className>
+          <testName>testAnotherMethod</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>0.0</duration>
+          <className>com.github.vitalliuss.helloci.AppTest</className>
+          <testName>testAnotherClass</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>0.0</duration>
+          <className>com.github.vitalliuss.helloci.AppTest</className>
+          <testName>testShouldBeSKipped</testName>
+          <skipped>true</skipped>
+          <skippedMessage>Not implemented yet</skippedMessage>
+          <failedSince>0</failedSince>
+        </case>
+      </cases>
+    </suite>
+  </suites>
+  <duration>0.219</duration>
+  <keepLongStdio>false</keepLongStdio>
+</result>

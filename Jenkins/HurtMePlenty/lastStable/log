@@ -1,0 +1,10 @@
+Started by user [8mha:////4IoAZ0JW2nuwbl59dRoKiwpBxkSDSq5+V7pb1VSw78ICAAAApB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyxEgYJ/dLi1CL9jMS8vMSyzMSikuLMvOLsxMpEAMFLXC7NAAAA[0mHanna A. Viartsinskaya
+Running as SYSTEM
+Собирается удаленно на [8mha:////4HfKUEDfIJfrZxrT9zLfZPKjixIBT3ELTLF926e56TeEAAAApR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz+EgZJ/eT83ILSktQifRfXYO8Q/wBdA3MnD28fPwArvn1SzgAAAA==[0mDESKTOP-07BHKLN (ff Windows10 chrome x64 8081) in workspace C:\Slave1\workspace\Parametrized job
+[Parametrized job] $ cmd /c call C:\Users\verti\AppData\Local\Temp\jenkins7745132459263698182.bat
+
+C:\Slave1\workspace\Parametrized job>ECHO dev  
+dev 
+
+C:\Slave1\workspace\Parametrized job>exit 0 
+Finished: SUCCESS

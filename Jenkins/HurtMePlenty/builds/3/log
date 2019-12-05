@@ -1,0 +1,10 @@
+Started by user [8mha:////4IoAZ0JW2nuwbl59dRoKiwpBxkSDSq5+V7pb1VSw78ICAAAApB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyxEgYJ/dLi1CL9jMS8vMSyzMSikuLMvOLsxMpEAMFLXC7NAAAA[0mHanna A. Viartsinskaya
+Running as SYSTEM
+Building in workspace C:\Program Files (x86)\Jenkins\workspace\Parametrized job
+[Parametrized job] $ cmd /c call C:\WINDOWS\TEMP\jenkins4868155376096117644.bat
+
+C:\Program Files (x86)\Jenkins\workspace\Parametrized job>ECHO qa 
+qa
+
+C:\Program Files (x86)\Jenkins\workspace\Parametrized job>exit 0 
+Finished: SUCCESS
