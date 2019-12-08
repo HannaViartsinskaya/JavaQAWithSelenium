@@ -78,7 +78,6 @@ public class MainTask {
         return result;
     }
     static double averageLengthNameOfFiles(List<String> list){
-        List<String> result=new ArrayList<>();
         int sum=0;
         int count=0;
         for(String item:list){
@@ -89,7 +88,7 @@ public class MainTask {
         return (double)sum/count;
     }
     static void writeToFile(String s){
-        try(FileWriter fileWriter=new FileWriter("mainTaskTreeFiles.txt",false))
+        try(FileWriter fileWriter=new FileWriter("./src/main/resources/mainTaskTreeFiles.txt",false))
         {
             fileWriter.write(s);
             fileWriter.flush();
