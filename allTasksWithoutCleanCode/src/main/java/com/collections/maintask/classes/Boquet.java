@@ -28,7 +28,7 @@ public class Boquet implements IGoodsForSale {
         return flowers;
     }
 
-    public Accessories getRandomAccessories() {
+    public final Accessories getRandomAccessories() {
         Random random = new Random();
         Accessories accessories = Accessories.values()[random.nextInt(Accessories.values().length)];
         return accessories;

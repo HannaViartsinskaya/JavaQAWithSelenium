@@ -69,13 +69,13 @@ public class Flower {
     }
 
 
-    public FlowerColor getRandomFlowerColor() {
+    public final FlowerColor getRandomFlowerColor() {
         Random random = new Random();
         FlowerColor flowerColor = FlowerColor.values()[random.nextInt(FlowerColor.values().length)];
         return flowerColor;
     }
 
-    public FlowerType getRandomFlowerType() {
+    public final FlowerType getRandomFlowerType() {
         Random random = new Random();
         FlowerType flowerType = FlowerType.values()[random.nextInt(FlowerType.values().length)];
         return flowerType;
