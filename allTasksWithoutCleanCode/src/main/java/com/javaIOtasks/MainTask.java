@@ -10,8 +10,8 @@ public class MainTask {
 
     public static void main(String[] args)
     {
-        //folder for test D:\QA\Projects_Java\FilesTask\dirForMainTask
-        //file for test D:\QA\Projects_Java\FilesTask\mainTaskTreeFiles.txt
+        //folder for test ...allTasksWithoutCleanCode\src\main\resources\dirForMainTask
+        //file for test allTasksWithoutCleanCode\src\main\resources\mainTaskTreeFiles.txt
         System.out.println("Path to folder or file");
         Scanner s = new Scanner(System.in);
         String path = s.nextLine();

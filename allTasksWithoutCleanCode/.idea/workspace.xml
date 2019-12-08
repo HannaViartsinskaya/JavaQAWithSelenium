@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20255ae1-12b2-469c-8304-5761318b8628" name="Default Changelist" comment="">
+    <list default="true" id="20255ae1-12b2-469c-8304-5761318b8628" name="Default Changelist" comment="edit collections">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/collections/maintask/Accessories.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/collections/maintask/Boquet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/collections/maintask/Flowers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/collections/maintask/Gerbera.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/collections/maintask/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/collections/maintask/Rose.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/collections/maintask/SortByLevelFresh.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/collections/maintask/Tulip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javaIOtasks/MainTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javaIOtasks/MainTask.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,11 +19,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/8exercise.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/collections/maintask/interfaces/IGoodsForSale.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -42,8 +30,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/collections/maintask/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            <state relative-caret-position="136">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,7 +57,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/collections/maintask/classes/Boquet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
@@ -85,6 +76,20 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javaIOtasks/MainTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mainTaskTreeFiles.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/collections/maintask/enums/Accessories.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -100,11 +105,6 @@
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/write1.txt">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -148,7 +148,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/errorsAndExceptionsUniversity/groupsAndStudents/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/errorsAndExceptionsUniversity/groupsAndStudents/Subject.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javaFundamential/Matrix.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/javaIOtasks/MainTask.java" />
         <option value="$PROJECT_DIR$/src/main/resources/ex5IO.txt" />
         <option value="$PROJECT_DIR$/src/main/resources/ex2IO.java" />
         <option value="$PROJECT_DIR$/src/main/resources/ex1IO.txt" />
@@ -168,6 +167,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/collections/maintask/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/collections/maintask/classes/Flower.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/collections/maintask/classes/Boquet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javaIOtasks/MainTask.java" />
+        <option value="$PROJECT_DIR$/mainTaskTreeFiles.txt" />
       </list>
     </option>
   </component>
@@ -246,41 +247,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="collections" type="462c0819:PsiDirectoryNode" />
-              <item name="maintask" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="allTasksWithoutCleanCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="allTasksWithoutCleanCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="collections" type="462c0819:PsiDirectoryNode" />
-              <item name="maintask" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="allTasksWithoutCleanCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="allTasksWithoutCleanCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="collections" type="462c0819:PsiDirectoryNode" />
-              <item name="maintask" type="462c0819:PsiDirectoryNode" />
-              <item name="enums" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="allTasksWithoutCleanCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="allTasksWithoutCleanCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="collections" type="462c0819:PsiDirectoryNode" />
-              <item name="maintask" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="javaIOtasks" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="allTasksWithoutCleanCode" type="b2602c69:ProjectViewProjectNode" />
@@ -290,16 +257,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="multithreading" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="allTasksWithoutCleanCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="allTasksWithoutCleanCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="multithreading" type="462c0819:PsiDirectoryNode" />
-              <item name="mainTask" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="allTasksWithoutCleanCode" type="b2602c69:ProjectViewProjectNode" />
@@ -347,7 +304,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.MainTask">
     <configuration name="Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javaFundamential.Exercises" />
       <module name="JavaTasks" />
@@ -388,6 +345,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaIOtasks.MainTask" />
+      <module name="JavaTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javaIOtasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javaIOtasks.Runner" />
       <module name="JavaTasks" />
@@ -401,33 +371,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaClassesStudent.main" />
-      <module name="JavaTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javaClassesStudent.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.main" />
       <item itemvalue="Application.Runner" />
       <item itemvalue="Application.Exercises" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.MainTask" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainTask" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Exercises" />
         <item itemvalue="Application.Runner" />
-        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
@@ -445,7 +402,7 @@
       <workItem from="1575279546622" duration="63000" />
       <workItem from="1575554996399" duration="721000" />
       <workItem from="1575629957154" duration="2476000" />
-      <workItem from="1575746775198" duration="6873000" />
+      <workItem from="1575746775198" duration="7637000" />
     </task>
     <task id="LOCAL-00001" summary="edit project">
       <created>1575631499860</created>
@@ -461,17 +418,31 @@
       <option name="project" value="LOCAL" />
       <updated>1575631843500</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="edit collections">
+      <created>1575802599515</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575802599515</updated>
+    </task>
+    <task id="LOCAL-00004" summary="edit collections">
+      <created>1575802748056</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575802748056</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17688000" />
+    <option name="totallyTimeSpent" value="18452000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31983805" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31983805" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -480,7 +451,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3285968" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3285968" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -512,13 +483,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="edit collections" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/collections/optionaltask/MyComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/errorsAndExceptionsUniversity/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-978">
@@ -661,13 +625,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/ex1IO.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javaIOtasks/MainTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/ex2IO.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -820,13 +777,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/8exercise.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/collections/maintask/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/collections/maintask/interfaces/IGoodsForSale.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -875,6 +825,26 @@
           <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/collections/maintask/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javaIOtasks/MainTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainTaskTreeFiles.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
